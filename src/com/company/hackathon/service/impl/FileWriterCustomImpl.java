@@ -1,6 +1,6 @@
-package com.company.hackathon.impl;
+package com.company.hackathon.service.impl;
 
-import com.company.hackathon.FileWriterCustom;
+import com.company.hackathon.service.FileWriterCustom;
 
 import java.io.FileWriter;
 import java.io.IOException;

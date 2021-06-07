@@ -1,6 +1,6 @@
-package com.company.hackathon.impl;
+package com.company.hackathon.service.impl;
 
-import com.company.hackathon.FileReaderCustom;
+import com.company.hackathon.service.FileReaderCustom;
 
 import java.io.*;
 import java.util.LinkedList;

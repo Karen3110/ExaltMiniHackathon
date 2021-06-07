@@ -1,4 +1,4 @@
-package com.company.hackathon;
+package com.company.hackathon.util;
 
 import java.util.List;
 

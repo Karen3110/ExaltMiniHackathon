@@ -1,4 +1,4 @@
-package com.company.hackathon;
+package com.company.hackathon.service;
 
 import java.io.FileNotFoundException;
 import java.util.List;

@@ -1,7 +1,10 @@
 package com.company.hackathon;
 
-import com.company.hackathon.impl.FileReaderTxt;
-import com.company.hackathon.impl.FileWriterCustomImpl;
+import com.company.hackathon.service.FileReaderCustom;
+import com.company.hackathon.service.FileWriterCustom;
+import com.company.hackathon.service.impl.FileReaderTxt;
+import com.company.hackathon.service.impl.FileWriterCustomImpl;
+import com.company.hackathon.util.Validator;
 
 import java.io.File;
 import java.io.IOException;
