@@ -3,7 +3,7 @@ package com.company.hackathon.util;
 import java.util.List;
 
 public class Validator {
-    static void validate(List<Integer> data) throws IllegalArgumentException{
+    public static void validate(List<Integer> data) throws IllegalArgumentException{
         if (data.size() == 0) {
             throw new IllegalArgumentException("Inputed Data is invalid");
         }
